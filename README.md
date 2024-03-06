@@ -1,1 +1,1 @@
-# EuHello.github.io
+# euhello.github.io
